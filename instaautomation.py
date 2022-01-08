@@ -2,9 +2,9 @@
 
 from instapy import InstaPy 
 from instapy import smart_run
-
-your_username = ' ' #input your username here
-your_password = ' ' #input your password here
+## making some changes
+your_username = 'aarti' #input your username here
+your_password = '1234' #input your password here
 
 session = InstaPy(username = your_username,
                   password = your_password,
